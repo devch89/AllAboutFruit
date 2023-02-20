@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AllAboutFruit</string>
+    <string name="home">Home</string>
+    <string name="order">order</string>
+    <string name="family">Family</string>
+    <string name="genus">Genus</string>
+</resources>
